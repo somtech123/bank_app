@@ -79,15 +79,16 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ## Screenshots
 https://user-images.githubusercontent.com/100732124/228495184-63d984be-d613-41cd-8d11-9cf427bf084a.mp4
 
-![Screenshot_20230326_234029](https://user-images.githubusercontent.com/100732124/228495439-b5261b46-975b-44e6-b9f0-d90acf49a866.png) 
-![Screenshot_20230326_234221](https://user-images.githubusercontent.com/100732124/228495477-1c33c96e-a24c-4486-91cf-223c4c4418b8.png)
-
-![Screenshot_20230326_234414](https://user-images.githubusercontent.com/100732124/228495504-f235e3b9-4dd5-426c-8511-9bcfdcf68734.png)
-
-![Screenshot_20230326_234514](https://user-images.githubusercontent.com/100732124/228495541-7fb4a1af-5d96-4e19-8d38-6fddbc37e01b.png)
-![Screenshot_20230326_234544](https://user-images.githubusercontent.com/100732124/228495576-6f49af33-a991-4c05-867a-884fe9ebf4b5.png)
-
-![Screenshot_20230326_234627](https://user-images.githubusercontent.com/100732124/228495608-fad1249b-0c5f-436a-a195-4b096d36cf81.png)
-![Screenshot_20230326_234733](https://user-images.githubusercontent.com/100732124/228495636-c5634b7e-232f-4855-98dd-0414f932ddf4.png)
-![Screenshot_20230326_234819](https://user-images.githubusercontent.com/100732124/228495671-5ebf6b2e-dac2-4b9e-a447-129e8f69a04e.png)
+<p float="left">
+<img src="https://user-images.githubusercontent.com/100732124/228495439-b5261b46-975b-44e6-b9f0-d90acf49a866.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/100732124/228495477-1c33c96e-a24c-4486-91cf-223c4c4418b8.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/100732124/228495504-f235e3b9-4dd5-426c-8511-9bcfdcf68734.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/100732124/228495541-7fb4a1af-5d96-4e19-8d38-6fddbc37e01b.png" width="200" height="400" />
+</p>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/100732124/228495576-6f49af33-a991-4c05-867a-884fe9ebf4b5.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/100732124/228495608-fad1249b-0c5f-436a-a195-4b096d36cf81.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/100732124/228495636-c5634b7e-232f-4855-98dd-0414f932ddf4.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/100732124/228495671-5ebf6b2e-dac2-4b9e-a447-129e8f69a04e.png" width="200" height="400" />
+</p>
 
